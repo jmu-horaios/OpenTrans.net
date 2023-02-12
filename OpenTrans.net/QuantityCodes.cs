@@ -261,6 +261,12 @@ namespace OpenTrans.net
         PK,
         
         /// <summary>
+        /// English: Pair
+        /// German: Paar
+        /// </summary>
+        PR,
+        
+        /// <summary>
         /// English: Roll
         /// German: Rolle
         /// </summary>
